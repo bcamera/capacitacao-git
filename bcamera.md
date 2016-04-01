@@ -7,4 +7,4 @@ bcamera
 - **Super Poder:** Ficar com fome o tempo todo
 
 - **inventário**:
-	- biscoito
+	- biscoito recheado
