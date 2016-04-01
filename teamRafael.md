@@ -1,0 +1,1 @@
+Geral que é foda ta comigo
